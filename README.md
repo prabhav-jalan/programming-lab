@@ -93,11 +93,3 @@ As a computer science student, I wanted a single place to document my technical 
 My main project repositories demonstrate larger applied work. This repository supports those projects by showing the fundamentals behind them: language practice, algorithmic thinking, and consistent improvement.
 
 ---
-
-## Timeline
-
-### July
-- July 4th: 
-    - Inilized the repository and initial scafolding documents
-    - Started with python basics
-
